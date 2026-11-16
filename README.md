@@ -1,8 +1,8 @@
 # UniversityCodes
 
-My C programming coursework from university (IIUC) — assignment solutions kept for reference. Nothing polished, just the code as it was submitted.
+My C programming coursework from university (IIUC): assignment solutions from the 2nd and 3rd semesters, kept for reference. They are simple, standalone C programs, useful if you are learning C or basic data structures and want to see small worked examples.
 
-## Layout
+## What is inside
 
 ```
 2ndSemester/
@@ -11,40 +11,29 @@ My C programming coursework from university (IIUC) — assignment solutions kept
   DS1/  DS2/  DS3/  DS4/      Data structures assignments
 ```
 
-Each folder holds a set of standalone `.c` files, one per problem.
+Each folder holds standalone `.c` files, one per problem.
 
-## Running one
+## Run one
 
-Every file is self-contained:
+Every file is self-contained, so you can compile and run any of them on its own:
 
 ```bash
 gcc 2ndSemester/Assi2/1.c -o out && ./out
 ```
 
-> These are old student assignments. If you're taking the same course, read them to learn — copying someone's submission is the fast track to a plagiarism case, and the code here isn't necessarily correct or idiomatic anyway.
+## Good to know
+
+1. These are old student assignments, kept as they were submitted. They are not polished, and some use old C style (like `main()` without a return type), so a modern compiler may show warnings.
+2. If you are taking the same course, use them to learn, not to copy. Copying a submission can get you into a plagiarism case.
 
 ## Contributing
 
-Contributions are warmly welcomed and greatly appreciated! Whether it's a bug fix, new feature, or improvement, your input helps make this project better for everyone.
-
-Before submitting a pull request, please:
-
-1. Create an issue describing the feature or bug fix you'd like to work on
-2. Wait for discussion and approval to ensure alignment with project goals
-3. Fork the repository and create your feature branch
-4. Submit your pull request with a clear description of changes
-
-This approach helps avoid duplicate efforts and ensures smooth collaboration. Thank you for considering contributing!
+Contributions are very welcome, thank you! Before you start on a pull request, please open an issue and tell me what you would like to add or change. That way we can agree on it first, and your time is not wasted on something that might not fit. Thanks for helping make UniversityCodes better.
 
 ## Share
 
-Sharing this repository with your friends is just one click away from here
+<a href="https://p32929.github.io/share/?repo=UniversityCodes"><img src="https://p32929.github.io/readme/share.svg" alt="Share this with your friends in just a click" width="420"></a>
 
-[![facebook](https://user-images.githubusercontent.com/6418354/179013321-ac1d1452-0689-493f-9066-940cf2302b6e.png)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/p32929/UniversityCodes/)
-[![twitter](https://user-images.githubusercontent.com/6418354/179013351-7d8d6d1c-4ce2-46ab-bef8-4c4765a1b888.png)](https://twitter.com/intent/tweet?url=https://github.com/p32929/UniversityCodes/)
-[![tumblr](https://user-images.githubusercontent.com/6418354/179013343-3111f55a-3b90-40c7-8487-9777348672b0.png)](https://www.tumblr.com/share?v=3&u=https://github.com/p32929/UniversityCodes/)
-[![pocket](https://user-images.githubusercontent.com/6418354/179013334-b095c45f-becf-49f4-9ee1-5a731a9b1f85.png)](https://getpocket.com/save?url=https://github.com/p32929/UniversityCodes/)
-[![pinterest](https://user-images.githubusercontent.com/6418354/179013331-44cd9206-11b1-4b65-becb-5863b61c828f.png)](https://pinterest.com/pin/create/button/?url=https://github.com/p32929/UniversityCodes/)
-[![reddit](https://user-images.githubusercontent.com/6418354/179013338-7416ae3f-73ba-4522-86e1-1374d7082d22.png)](https://www.reddit.com/submit?url=https://github.com/p32929/UniversityCodes/)
-[![linkedin](https://user-images.githubusercontent.com/6418354/179013327-ca7b7102-1da8-4b1c-858f-1a6e5f21bd70.png)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/p32929/UniversityCodes/)
-[![whatsapp](https://user-images.githubusercontent.com/6418354/179013353-f477fa0b-3e6f-4138-a357-c9991b23ff88.png)](https://api.whatsapp.com/send?text=https://github.com/p32929/UniversityCodes/)
+## Support
+
+<a href="https://p32929.github.io/support/"><img src="https://p32929.github.io/readme/support.svg" alt="If you like my works and want to support me, feel free to support" width="420"></a>
